@@ -28,7 +28,7 @@ public class smokeTestcases {
         loginDetails.clickAllowBtn();
         loginDetails.clickCloseBtn();
         loginDetails.firstLoginBtn();
-        loginDetails.loginCreds("3067496061", "Yousma@biomark1");
+        loginDetails.loginCreds("3067496061", "paasword");
         loginDetails.clickLoginBtn();
     }
 }
